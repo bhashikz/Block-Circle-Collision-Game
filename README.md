@@ -1,4 +1,5 @@
-# Blue Block Dodger - Blue Block Dodger is a simple 2D game built using the raylib library. The player controls a blue circle that must avoid colliding with a moving red axe.
+# Blue Block Dodger 
+Blue Block Dodger is a simple 2D game built using the raylib library. The player controls a blue circle that must avoid colliding with a moving red axe.
 
 ## Overview
 
