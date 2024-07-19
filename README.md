@@ -13,3 +13,5 @@ In this game, the player controls a blue circle using the 'A' and 'D' keys to mo
 - Collision detection
 - Game over condition
 - Smooth animations
+
+![Game Over Screenshot](GamePlayImages/env2.jpg)
